@@ -1,0 +1,6 @@
+C:\dnndev.me\bin\GoogleGroupsSpa.dll
+C:\dnndev.me\bin\GoogleGroupsSpa.pdb
+C:\dnndev.me\DesktopModules\GoogleGroupsSpa\obj\Release\GoogleGroupsSpa.dll
+C:\dnndev.me\DesktopModules\GoogleGroupsSpa\obj\Release\GoogleGroupsSpa.pdb
+C:\dnndev.me\DesktopModules\GoogleGroupsSpa\obj\Release\GoogleGroupsSpa.csprojResolveAssemblyReference.cache
+C:\dnndev.me\bin\GoogleGroupsSpa.dll.config
